@@ -1,7 +1,7 @@
 Doing Laundry
 
 1 Collect laundry from house
-  1.1 Pick up hamper in closet closet
+  1.1 Pick up hamper in closet
   1.2 Put dirty clothes from bedroom in hamper
   1.3 Put dirty clothes from living room in hamper
   1.4 Put dirty clothes from bathroom in hamper
