@@ -1,0 +1,61 @@
+Doing Laundry
+
+1 Collect laundry from house
+  1.1 Pick up hamper in closet closet
+  1.2 Put dirty clothes from bedroom in hamper
+  1.3 Put dirty clothes from living room in hamper
+  1.4 Put dirty clothes from bathroom in hamper
+2 Wash laundry
+  2.1 Place laundry in washing machine
+    2.1.1 Place hamper near washing machine
+    2.1.2 Open washing machine door
+    2.1.3 Place contents of hamper in washing machine
+    2.1.4 Close washing machine door
+  2.2 Apply detergent
+    2.2.1 Open washing machine detergent tray
+    2.2.2 Measure detergent with detergent cup
+    2.2.3 Pour detergent from measuring cup into washing machine detergent tray
+    2.2.4 Close washing machine detergent tray
+  2.3 Run wash cycle
+    2.3.1 Press the power button on the washing machine
+    2.3.2 Turn the wash cycle dial to the appropriate setting
+    2.3.3 Press and hold the run button on the washing machine until it beeps
+    2.3.4 Wait until the cycle complete indicator light activates on the washing machine
+3 Dry laundry
+  3.1 Transfer laundry to dryer
+    3.1.1 Open the washing machine door
+    3.1.2 Place contents of washing machine in hamper
+    3.1.3 Place hamper near dryer
+    3.1.4 Open dryer door
+    3.1.5 Place contents of hamper in dryer
+  3.2 Insert dryer sheet
+    3.2.1 Locate dryer sheet box
+    3.2.2 Place one dryer sheet from the dryer sheet box in dryer
+    3.2.3 Close dryer door
+  3.3 Run dry cycle
+    3.3.1 Press the power button on the dryer
+    3.3.2 Turn the dry cycle dial to the appropriate setting
+    3.3.3 Press and hold the run button on the dryer until it beeps
+    3.3.4 Wait until the cycle complete indicator light activates on the dryer
+4 Put laundry away
+  4.1 Collect laundry from dryer
+    4.1.1 Open the dryer door
+    4.1.2 Place contents of dryer in hamper
+    4.1.3 Place hamper next to bed
+  4.2 Hang tops
+    4.2.1 Collect unused hangers from closet
+    4.2.2 Place all tops from hamper on bed
+    4.2.3 Place each top onto a hanger
+    4.2.4 Neatly stack each top in one pile on the bed
+  4.3 Fold bottoms
+    4.3.1 Place all bottoms on bed
+    4.3.2 Fold each bottom in half vertically and then fold in half horizontally
+    4.3.3 Neatly stack each bottom in another pile on the bed
+  4.4 Fold towels
+    4.4.1 Place all towels on bed
+    4.4.2 Fold each towel in half vertically and then fold in half horizontally
+    4.4.3 Neatly stack each towel in a third pile on the bed
+  4.5 Sort laundry into appropriate locations
+    4.5.1 Hang stack of tops on closet rods
+    4.5.2 Place stack of bottoms in wardrobe drawers
+    4.5.3 Place towels in closet towel storage area
