@@ -1,0 +1,32 @@
+Object: Allied Corsair 23
+
+Attributes:
+name: "Seas The Day"
+fuelRemaining: 24
+engineOn: false
+lightsOn: [false, false, false, true]
+passengers: ["Mystique", "Cyclops", "Storm", "Nightcrawler"]
+
+Methods:
+rename: name = "X-Jet"
+refuel: fuelRemaining = 100
+doIgnitionSequence: engineOn = true
+turnLightsOn: input [0, 1, 2] -> lightsOn = [true, true, true, true]
+addPassenger: input "Rogue" -> passengers = ["Mystique", "Cyclops", "Storm", "Nightcrawler", "Rogue"
+
+
+Object: Sea Ray 290
+
+Attributes:
+name: "Unsinkable II"
+fuelRemaining: 85
+engineOn: true
+lightsOn: [false, false, false, false]
+passengers: ["Moomintroll", "Little My", "Moominmama", "Moominpapa"]
+
+Methods:
+rename: name = "Oshun Oxtra"
+refuel: fuelRemaining = 100
+doIgnitionSequence: engineOn = true
+turnLightsOn: input [1, 3] -> lightsOn = [false, true, false, true]
+addPassenger: input "Snufkin" - > passengers = ["Moomintroll", "Little My", "Moominmama", "Moominpapa", "Snufkin"]
