@@ -1,0 +1,15 @@
+Class: Boat
+
+Attributes:
+name (string)
+fuelRemaining (integer)
+engineOn (boolean)
+lightsOn (array)
+passengers (array)
+
+Methods:
+rename (sets name string to user input)
+refuel (sets fuelRemaining to 100)
+doIgnitionSequence (changes engineOn to true)
+turnLightOn (sets specified lightsOn array index position boolean value to true)
+addPassenger (sets specified passengers array index position string value to specified string)
